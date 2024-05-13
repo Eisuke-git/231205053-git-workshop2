@@ -22,6 +22,7 @@ var shapes = [
       1, 1, 1 ]
 ];
 var colors = [
+
     'cyan', 'orange', 'skyblue', 'yellow', 'red', 'green', 'purple'
     //origin cplor='cyan', 'orange', 'blue', 'yellow', 'red', 'green', 'purple'
 ];
