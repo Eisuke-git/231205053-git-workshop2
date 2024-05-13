@@ -22,7 +22,7 @@ var shapes = [
       1, 1, 1 ]
 ];
 var colors = [
-    'lime', 'lime', 'lime', 'lime', 'lime', 'lime', 'lime', 'lime'
+    'cyan', 'orange', 'skyblue', 'yellow', 'red', 'green', 'purple'
     //origin cplor='cyan', 'orange', 'blue', 'yellow', 'red', 'green', 'purple'
 ];
 
